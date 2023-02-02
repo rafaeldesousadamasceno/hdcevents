@@ -1,0 +1,1 @@
+console.log("Arquivo acessado com sucesso")
